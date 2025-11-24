@@ -115,12 +115,12 @@ plt.show()
 
 ```
 ### OUTPUT :
-<img width="452" height="263" alt="image" src="https://github.com/user-attachments/assets/862df244-6887-4361-a282-f280c63423a2" />
-<img width="453" height="265" alt="image" src="https://github.com/user-attachments/assets/92fc2b1a-b090-4b5a-9b28-e099160397e2" />
-<img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/fe2aabd6-273e-4c6f-a120-2c2a8cfc7fa1" />
-<img width="456" height="261" alt="image" src="https://github.com/user-attachments/assets/6afff507-c84a-4761-bbe6-7ad0eda20e73" />
-<img width="454" height="264" alt="image" src="https://github.com/user-attachments/assets/8b93aa02-7dc9-4d18-b764-5ffe51641097" />
-<img width="447" height="259" alt="image" src="https://github.com/user-attachments/assets/c97496ee-85ba-4771-86d2-43b9b2f9beff" />
+<img width="516" height="522" alt="image" src="https://github.com/user-attachments/assets/9aa2346b-41e3-4af4-936a-c18f89150d10" />
+<img width="715" height="455" alt="image" src="https://github.com/user-attachments/assets/004b0c24-551c-4ce1-8a73-4a4e1317a51d" />
+<img width="551" height="533" alt="image" src="https://github.com/user-attachments/assets/c6dc0471-9b7f-43c4-83ba-4717682be130" />
+<img width="697" height="459" alt="image" src="https://github.com/user-attachments/assets/badc1283-16d5-4956-9853-a43f1a26c1fc" />
+<img width="556" height="532" alt="image" src="https://github.com/user-attachments/assets/90fcb05d-b024-4b69-9877-c820fe0c2958" />
+<img width="699" height="453" alt="image" src="https://github.com/user-attachments/assets/5dc8018c-cdf9-40c0-b554-569f7c21a913" />
 
 ### RESULT:
 Thus the program to implement Face Detection using Haar Cascades was executed successfully.
